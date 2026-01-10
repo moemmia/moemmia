@@ -2,7 +2,7 @@
 
 #### A Software Engineer specialized in web development, user interaction, and accessibility
 
-.NET Developer at [Microven](https://www.microven.net)
+.NET Developer at [Microven](https://www.microven.net)   
 I create engaging and accessible web experiences.
 
 - 💻 Daily stack: `.razor`, `.html`, `.css`, `.csharp`, `.unity`, `.blend`
