@@ -3,6 +3,7 @@
 #### A Software Engineer specialized in web development, human-computer interaction, and accessibility
 
 Edge AI Developer at [CTIC](https://github.com/fundacionctic)
+
 I create engaging and accessible AI-powered solutions.
 
 - 💻 Daily stack: `.py`, `.html`, `.css`, `.csharp`, `.unity`, `.blend`
